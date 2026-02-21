@@ -1,4 +1,4 @@
-## 🚧 About Project
+## About Project
 - Use Socket.io Module
 - Connect Socket.io
 - Implementation chat function with that.
